@@ -1,2 +1,4 @@
 test/test-credentials.js
 npm-debug.log
+node_modules
+.idea
