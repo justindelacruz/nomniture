@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/justindelacruz/nomniture"
   },
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": {
     "name": "Justin Dela Cruz",
     "email": "justin.delacruz@gmail.com",
@@ -21,16 +21,11 @@
     "adobe analytics"
   ],
   "dependencies": {
-    "nodeunit": "latest",
-    "underscore": "latest",
-    "xml2json": "latest",
-    "request": "latest"
+    "nodeunit": "^0.10.2",
+    "request": "^2.75.0",
+    "underscore": "^1.8.3",
+    "xml2json": "^0.10.0"
   },
-  "bundledDependencies": [
-    "nodeunit",
-    "underscore",
-    "xml2json"
-  ],
   "devDependencies": {
     "eslint": "^3.5.0",
     "eslint-config-google": "^0.6.0",
